@@ -1,9 +1,18 @@
+body {
+    margin-top: 0;
+    margin-left: 0;
+}
+
 h1 {
-    background-color: salmon
+    margin-bottom: 0;} 
+
+h1 span {
+    background-color: salmon;
 }
 
 div {
     border: 6px solid aquamarine;
     background: #eee;
+    width: 290px;
 }
 
