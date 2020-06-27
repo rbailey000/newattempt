@@ -11,9 +11,13 @@ h1 span {
     background-color: salmon;
 }
 
-div {
+#envelope {
     border: 6px solid aquamarine;
     background: #eee;
     width: 290px;
+}
+
+.palign {
+    text-align: center;
 }
 
